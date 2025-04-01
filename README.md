@@ -16,15 +16,11 @@
 
 ### 🚀 Projects
 - Customer Call Automated Feedback System
-- Bail Reckoner
-- Few Shot Language Agnostic Keyword Spotting System
-- Hydrate Yourself (Drink Water Notifier)
+
 - Conference Website
-- Deep Fake Detection (Ongoing)
-- Real-Time Chat App (Ongoing)
-- Video Transcript Generator (Ongoing)
-- Vulnerability Testing Tool (Ongoing)
-- Test App for CRT and Coding Tests (Ongoing)
+
+-  RegiTrust
+-  AI Code Review
 
 ### 📊 LeetCode Stats
 
