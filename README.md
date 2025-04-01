@@ -35,7 +35,7 @@
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📈 GitHub Stats
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv1108&show_icons=true&theme=radical)
+![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushAug11&show_icons=true&theme=radical)
 
 ### 📫 How to reach me
 - LinkedIn: [Kushagra Srivastava](https://www.linkedin.com/in/kushagra-srivastava-736253219/)
